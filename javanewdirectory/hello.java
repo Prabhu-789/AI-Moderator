@@ -6,6 +6,7 @@ class Hello{
     System.out.println("a is: "+a);
     int b;
     int c;
+    c= a++;
 }
 
 // hello from java
