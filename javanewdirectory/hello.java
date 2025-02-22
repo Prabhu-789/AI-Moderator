@@ -9,6 +9,7 @@ class Hello{
     c= a++;
     String name = "prodify";
     String prasanna="name"+name;
+    String a = 3;
 }
 
 // hello from java
