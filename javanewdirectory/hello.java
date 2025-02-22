@@ -7,6 +7,7 @@ class Hello{
     int b;
     int c;
     c= a++;
+    int x = a+b+c;
 }
 
 // hello from java
