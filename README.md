@@ -1,3 +1,5 @@
 # AI-Moderator
 
-added git ignore file
+Practice git commands
+new changes
+new changsr
