@@ -8,6 +8,7 @@ class Hello{
     int c;
     c= a++;
     String name = "prodify";
+    String prasanna="name"+name;
 }
 
 // hello from java
