@@ -8,7 +8,8 @@ class Hello{
     int c;
     c= a++;
     String name = "prodify";
-    String prabhu teja="name"+name;
+    String prasanna="name"+name;
+    String a = 3;
 }
 
 // hello from java
