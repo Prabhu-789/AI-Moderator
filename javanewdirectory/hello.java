@@ -4,6 +4,8 @@ class Hello{
     }
     int a = 4;
     System.out.println("a is: "+a);
+    int c;
+    Sout.println("c is: "+c);
 }
 
 // hello from java
