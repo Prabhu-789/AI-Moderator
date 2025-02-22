@@ -30,3 +30,7 @@ if __name__ == "__main__":
         
 def fun():
     print('hello')
+    
+
+def add(a,b):
+    return a+b
