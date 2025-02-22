@@ -7,7 +7,9 @@ class Hello{
     int b;
     int c;
     c= a++;
-    String name = "prodify";
+    String name = "prabhu";
+
+
 }
 
 // hello from java
